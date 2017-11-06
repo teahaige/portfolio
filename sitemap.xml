@@ -4,19 +4,16 @@
   
   <url>
     <loc>https://teahaige.github.io/portfolio/categories/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://teahaige.github.io/portfolio/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://teahaige.github.io/portfolio/tags/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
