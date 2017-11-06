@@ -1,4 +1,4 @@
-baseURL = "https://teahaige.github.io/portfolio/"
+baseURL = "https://teahaige.github.io/portfolio"
 languageCode = "en-us"
 title = "Steven Thomas"
 theme = "minimal"
