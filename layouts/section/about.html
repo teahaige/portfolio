@@ -1,0 +1,13 @@
+{{ partial "header" . }}
+
+<main>
+
+
+    <div class="intro">
+        {{ with $.Site.GetPage "section" "about"}} {{markdownify .Content }}{{ end }}
+
+    </div>
+
+</main>
+
+{{ partial "footer" . }}
